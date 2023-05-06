@@ -1,0 +1,20 @@
+.image{
+    width: 150px;
+    height: 150px;
+}
+#bigDiv{
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    visibility: collapse;
+}
+.bigImg{
+    width: 600px;
+    height: 400px;
+}
+#bigDiv.moncc{
+    visibility: visible;
+}
